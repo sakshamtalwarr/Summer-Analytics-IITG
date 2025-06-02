@@ -33,9 +33,8 @@ Each week folder typically includes:
 
 ## Contact
 If you have any questions or suggestions, feel free to reach out to me:  
-**Name:** [Your Name]  
-**Email:** [your-email@example.com]  
-**GitHub:** [Your GitHub Profile URL]
+**Name:** Saksham Talwar 
+**Email:** work.sakshamtalwar@gmail.com 
 
 ---
 
