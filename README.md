@@ -1,7 +1,7 @@
 # Summer-Analytics-IITG
 # Summer Analytics 2025 - Assignments Repository
 <img src="https://imarticus.org/blog/wp-content/uploads/2017/10/scopet.gif">
-## Overview
+Overview
 This repository contains my solutions for the Summer Analytics 2025 course assignments. Each week’s assignments focus on different aspects of data analysis using Python, including Pandas, NumPy, Matplotlib, and Seaborn, applied on various datasets.
 
 Each week folder typically includes:
