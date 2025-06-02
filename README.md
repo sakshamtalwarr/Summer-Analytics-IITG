@@ -1,41 +1,45 @@
-# Summer-Analytics-IITG
-# Summer Analytics 2025 - Assignments Repository
-<img src="https://imarticus.org/blog/wp-content/uploads/2017/10/scopet.gif">
-Overview
-This repository contains my solutions for the Summer Analytics 2025 course assignments. Each week’s assignments focus on different aspects of data analysis using Python, including Pandas, NumPy, Matplotlib, and Seaborn, applied on various datasets.
+# Summer Analytics 2025 - Assignments Repository  
+### Organized by Indian Institute of Technology Guwahati (IITG)
 
-Each week folder typically includes:
-- A Jupyter Notebook (`.ipynb`) file with solutions and code.
-- Dataset files (`.csv`, `.xlsx`, etc.) used for that week’s assignment.
+![Analytics](https://imarticus.org/blog/wp-content/uploads/2017/10/scopet.gif)
 
-## Key Skills Covered
-- Data loading, cleaning, and preprocessing
-- Exploratory Data Analysis (EDA)
-- Data aggregation and grouping
-- Creating and modifying DataFrame columns and indices
-- Data visualization with Matplotlib and Seaborn
-- Basic statistics and insights extraction
+## 📘 Overview  
+This repository contains my weekly solutions for the **Summer Analytics 2025** course organized by **IIT Guwahati**. The course aims to strengthen data analysis skills using Python and key libraries, along with practical problem-solving using real-world datasets.
 
-## How to Use
-1. Clone or download this repository.
-2. Navigate to the relevant week folder.
-3. Open the Jupyter Notebook file (`.ipynb`) using Jupyter Notebook or Jupyter Lab.
-4. Ensure the datasets are in the same folder as the notebook.
-5. Run the notebook cells to reproduce the analysis and results.
+### 📁 Repository Structure  
+Each week’s folder typically includes:  
+- 📓 A **Jupyter Notebook** (`.ipynb`) with complete code and explanations  
+- 📂 The dataset file(s) used for that week (`.csv`, `.xlsx`, etc.)
 
-## Tools & Libraries
-- Python 3.x
-- pandas
-- numpy
-- matplotlib
-- seaborn
+## 🛠️ Key Skills Covered  
+- Data loading, cleaning, and preprocessing  
+- Exploratory Data Analysis (EDA)  
+- Data aggregation and grouping  
+- Creating/modifying DataFrame columns and indices  
+- Visualizing data with Matplotlib and Seaborn  
+- Extracting actionable insights using basic statistics
+
+## 🚀 How to Use  
+1. Clone or download this repository  
+2. Open the folder of the respective assignment/week  
+3. Launch the notebook in **Jupyter Notebook** or **Jupyter Lab**  
+4. Ensure the dataset file is in the same directory  
+5. Run the notebook to reproduce analysis and visualizations
+
+## 🧰 Tools & Libraries Used  
+- Python 3.x  
+- [pandas](https://pandas.pydata.org)  
+- [numpy](https://numpy.org)  
+- [matplotlib](https://matplotlib.org)  
+- [seaborn](https://seaborn.pydata.org)  
 - Jupyter Notebook / Jupyter Lab
 
-## Contact
-If you have any questions or suggestions, feel free to reach out to me:  
-**Name:** Saksham Talwar 
-**Email:** work.sakshamtalwar@gmail.com 
+## 📬 Contact  
+Feel free to reach out with any questions or collaboration requests:  
+**👤 Name:** Saksham Talwar  
+**📧 Email:** work.sakshamtalwar@gmail.com  
 
 ---
 
-*Looking forward to sharing my learning journey through this course!*
+💡 *Documenting my learning journey through this course to grow as a data analyst.*  
+📍 *Assignments are part of the Summer Analytics program by IIT Guwahati, hosted on Unstop.*  
